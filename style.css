@@ -1,0 +1,111 @@
+/*
+//Значення для жирності шрифту
+//Light 300
+//Regular 400
+//Medium 500
+//SemiBold 600
+//Bold 700
+//ExtraBold 800
+
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+:root{
+    --main-font: "Montserrat", sans-serif;
+    --main-color: #032954
+}
+
+/*Main page*/
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: var(--main-font);
+    font-weight: 400;
+    margin: 25px;
+}
+
+.catalog-header{
+    font-weight: 700;
+    color: var(--main-color);
+    font-size: 62px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.divider{
+    height: 1.5px;
+    background-color: var(--main-color);
+    width: 100%;
+}
+
+/*Main Page Category*/
+
+.category-box{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 400px;
+}
+
+.sandind-tool-text{
+    font-weight: 600;
+    color: var(--main-color);
+    font-size: 30px;
+    padding-left: 6px;
+}
+
+.icon {
+  width: 63px;
+  height: 63px;
+}
+
+.view-all-but{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.view-all-but:hover .circle {
+    fill: #8194A9;
+    transition: 0.3s;
+}
+
+.view-all-text{
+    font-weight: 500;
+    font-size: 24px;
+    color: var(--main-color);
+    padding-left: 6px;
+}
+
+.category-item {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 400px; 
+}
+
+.bottom {
+    margin-top: auto;
+}
+
+
+
+/*Footer*/
+footer {
+  margin-top: auto;
+  background-color: var(--main-color);
+  color: white;
+}
