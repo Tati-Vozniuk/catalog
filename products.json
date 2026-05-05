@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "name": "Zestaw padów dla szlifowania gładzi",
+    "price": 95,
+    "category": "sanding-pads",
+    "description": [
+      "Zestaw 4 padów do szlifowania gładzi w trudno dostępnych miejscach",
+      "Profesjonalny zestaw 4 padów przeznaczonych do precyzyjnego szlifowania",
+      "W zestawie 4 różne kształty",
+      "Mocowanie na rzep - szybka wymiana",
+      "Solidne wykonanie zapewnia trwałość"
+    ],
+    "images": [
+      "img/product-1/set-of-pads-for-sanding.png",
+      "img/product-1/set-of-pads-for-sanding-2.png",
+      "img/product-1/set-of-pads-for-sanding-3.png",
+      "img/product-1/set-of-pads-for-sanding-4.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pad trapezowy do szlifowania gładzi",
+    "price": 50,
+    "category": "sanding-pads",
+    "description": [
+     "Pad do szlifowania gładzi - trapezowy",
+     "Profesjonalny pad do ręcznego szlifowania gładzi . Kształt",
+      "trapezu ułatwia pracę przy narożnikach oraz trudno dostępnych miejscach",
+      "Stabilna i wytrzymała konstrukcja z druku 3D( petg)",
+      "Wygodny, ergonomiczny uchwyt",
+      "Mocowanie na rzep - szybka wymiana papieru ściernego",
+      "Lekki i poręczny",
+      "Idealny do prac wykończeniowych"
+    ],
+    "images": [
+      "img/product-2/trapezoidal-pad-for-sanding.png",
+      "img/product-2/trapezoidal-pad-for-sanding-2.png",
+      "img/product-2/trapezoidal-pad-for-sanding-3.png",
+      "img/product-2/trapezoidal-pad-for-sanding-4.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pad do szlifowania gładzi (półksiężyc )",
+    "price": 40,
+    "category": "sanding-pads",
+    "description": [
+      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
+      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
+      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
+      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
+      "Precyzyjne szlifowanie.",
+      "Trwałe tworzywo."
+    ],
+    "images":[
+      "img/product-3/smoothing-sanding-pad.png",
+      "img/product-3/smoothing-sanding-pad-2.png",
+      "img/product-3/smoothing-sanding-pad-3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Uchwyt do ukosowania płytek",
+    "category": "tile-gadgets",
+    "price": 20,
+    "description": [
+      "Cena 20 zł za sztukę.",
+      "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
+      "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
+      "Wytrzymała konstrukcja (druk 3D).",
+      "Idealny dla glazurników i ekip remontowych."
+    ],
+    "images":[
+      "img/product-4/tile-beveling-holder.png",
+      "img/product-4/tile-beveling-holder-2.png",
+      "img/product-4/tile-beveling-holder-3.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Klips/zacisk do ściągania płytek",
+    "price": 30,
+    "category": "tile-gadgets",
+    "description": [
+      "Zacisk do narożników płytek (zewnętrznych i wewnętrznych).",
+      "Praktyczne narzędzie do precyzyjnego ściągania i wyrównywania płytek zarówno na narożnikach zewnętrznych (90°), jak i wewnętrznych.",
+      "Ułatwia idealne dopasowanie krawędzi podczas montażu i zapewnia równą linię łączenia.",
+      "Mocowanie za pomocą kleju na gorąco lub taśmy dwustronnej bezpośrednio do powierzchni płytki.",
+      "Stabilna konstrukcja gwarantuje mocny i równomierny docisk podczas wiązania kleju.",
+      "Do narożników zewnętrznych i wewnętrznych.",
+      "Precyzyjne dociśnięcie i wyrównanie płytek.",
+      "Łatwy montaż (klej na gorąco / taśma dwustronna).",
+      "Wielokrotnego użytku.",
+      "Idealne dla glazurników i ekip wykończeniowych."
+    ],
+    "images":[
+      "img/product-5/clamp-for-removing-tiles.png",
+      "img/product-5/clamp-for-removing-tiles-2.png",
+      "img/product-5/clamp-for-removing-tiles-3.png",
+      "img/product-5/clamp-for-removing-tiles-4.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Uchwyt do ukosowania płytek",
+    "price": 30,
+    "category": "tile-gadgets",
+    "description": [
+      "Cena 30 zł za sztukę.",
+      "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
+      "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
+      "Możliwość dostosowania kątów mocowania do własnych potrzeb.",
+      "Idealny dla glazurników i ekip remontowych."
+    ],
+    "images":[
+      "img/product-6/tile-beveling-holder.png",
+      "img/product-6/tile-beveling-holder-2.png",
+      "img/product-6/tile-beveling-holder-3.png",
+      "img/product-6/tile-beveling-holder-4.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Odsysacz pyłu pod czas wiercenia",
+    "price": 40,
+    "category": "other-gadgets",
+    "description": [
+      "Odsysacz pyłu do wiercenia.",
+      "Praktyczne narzędzie do odsysania pyłu podczas wiercenia w ścianach i sufitach.",
+      "Utrzymuje czystość w miejscu pracy oraz ogranicza rozprzestrzenianie się kurzu w pomieszczeniu.",
+      "Wystarczy przyłożyć urządzenie do powierzchni i wiercić bezpośrednio przez otwór - pył trafia do wnętrza odsysacza.",
+      "Idealne rozwiązanie do prac remontowych, montażu półek, karniszy, uchwytów czy instalacji elektrycznych.",
+      "Czyste wiercenie bez kurzu.",
+      "Łatwe i szybkie użycie.",
+      "Lekka i poręczna konstrukcja.",
+      "Wielokrotnego użytku.",
+      "Do ścian i sufitów.",
+      "Niezbędne narzędzie dla każdego fachowca."
+    ],
+    "images":[
+      "img/product-7/dust-extraction-while-drilling.png",
+      "img/product-7/dust-extraction-while-drilling-2.png",
+      "img/product-7/dust-extraction-while-drilling-3.png",
+      "img/product-7/dust-extraction-while-drilling-4.png",
+      "img/product-7/dust-extraction-while-drilling-5.png",
+      "img/product-7/dust-extraction-while-drilling-6.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
+    "price": 30,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
+      "Wytrzymała obudowa.",
+      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-8/professional-magnetic-spatula-holder.png",
+      "img/product-8/professional-magnetic-spatula-holder-2.png",
+      "img/product-8/professional-magnetic-spatula-holder-3.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "LED do szlifierki Bosch GTR 550",
+    "price": 120,
+    "category": "other-gadgets",
+    "description": [
+      "Podświetlenie LED do szlifierki Bosch GTR 550.",
+      "Praktyczne podświetlenie LED przeznaczone do szlifierki Bosch GTR 550, które poprawia widoczność powierzchni podczas pracy.",
+      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
+      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
+      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
+      "Zalety produktu:",
+      "Podświetlenie LED przeznaczone do Bosch GTR 550.",
+      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
+      "Lekkie i łatwe w montażu.",
+      "Mobilne zasilanie z powerbanku.",
+      "Zestaw zawiera:",
+      "Obręcz z taśmą LED.",
+      "2 x powerbank.",
+      "Kabel USB do ładowania.",
+      "Wkręty do montażu.",
+      "Czas pracy:",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
+      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
+    ],
+    "images":[
+      "img/product-9/LED-for-Bosch-GTR-550-sander.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Uchwyt do lutowania przewodów",
+    "price": 30,
+    "category": "other-gadgets",
+    "description": [
+      "Uchwyt do lutowania przewodów (trzecia ręka do lutowania).",
+      "Praktyczne narzędzie do stabilnego mocowania kabli i przewodów podczas lutowania.",
+      "Ułatwia precyzyjną pracę, zwalnia ręce i zwiększa komfort oraz bezpieczeństwo podczas łączenia elementów.",
+      "Zalety:",
+      "Stabilne i pewne mocowanie przewodów.",
+      "Ułatwia dokładne lutowanie małych elementów.",
+      "Idealny do cienkich kabli i przewodów LED.",
+      "Kompaktowy i wygodny w użyciu.",
+      "Świetnie sprawdzi się przy naprawach elektroniki, montażu oświetlenia LED oraz pracach hobbystycznych i serwisowych."
+    ],
+    "images":[
+      "img/product-10/wire-soldering-holder.png",
+      "img/product-10/wire-soldering-holder-2.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "LED do szlifierki Mirka Leros",
+    "price": 220,
+    "category": "other-gadgets",
+    "description": [
+      "Podświetlenie LED do szlifierki Mirka Leros.",
+      "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
+      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
+      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
+      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
+      "Zalety produktu:",
+      "Podświetlenie LED przeznaczone do Mirka Leros.",
+      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
+      "Lekkie i łatwe w montażu.",
+      "Mobilne zasilanie z powerbanku.",
+      "Zestaw zawiera:",
+      "Obręcz z taśmą LED.",
+      "2 x powerbank.",
+      "Kabel USB do ładowania.",
+      "Uchwyt na baterię.",
+      "Czas pracy:",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
+      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
+    ],
+    "images":[
+      "img/product-11/LED-for-mirka-leros-sander.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 200,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "Zalety produktu:",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Wygodny ergonomiczny uchwyt.",
+      "Lekka i solidna konstrukcja.",
+      "Zastosowanie:",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "Zestaw zawiera:",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "Czas pracy:",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-12/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 180,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Płaski uchwyt umożliwia szlifowanie w trudno dostępnych miejscach.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "Zalety produktu:",
+      "Wbudowane oświetlenie LED, idealny do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Lekka i solidna konstrukcja.",
+      "Zastosowanie:",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "Zestaw zawiera:",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "Czas pracy:",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-13/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 230,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "Zalety produktu:",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Помага швидко виявляти нерівності поверхні.",
+      "Wygodny ergonomiczny uchwyt.",
+      "Lekka i solidna konstrukcja.",
+      "Zastosowanie:",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "Zestaw zawiera:",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "Czas pracy:",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-14/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
+    "price": 140,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
+      "Profesjonalny pad do szlifowania gładzi z wbudowanym oświetleniem LED.",
+      "Dzięki podświetleniu dokładnie widać wszystkie nierówności i niedoskonałości powierzchni podczas pracy.",
+      "Ergonomiczny uchwyt zapewnia wygodę użytkowania, a solidna konstrukcja gwarantuje trwałość i stabilność.",
+      "Idealna do prac wykończeniowych oraz dla wymagających fachowców.",
+      "Zalety produktu:",
+      "Podświetlenie LED - lepsza kontrola powierzchni.",
+      "Do gładzi.",
+      "Wygodny uchwyt.",
+      "Precyzyjne szlifowanie.",
+      "Zestaw zawiera:",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "Czas pracy:",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-15/Iron-pad-for-sanding-plaster-with-LED-lighting.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Uchwyt na taśmę/fizelinę z magnesem",
+    "price": 40,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny uchwyt na taśmę z magnesem.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania nożyczek.",
+      "Wytrzymała obudowa.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-16/tape-fleece-holder-with-magnet.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pojemnik na tarcze 50-55 mm",
+    "price": 15,
+    "category": "other-gadgets",
+    "description": [
+      "Pojemnik z przegródkami do przechowywania tarczy 50-55 mm"
+    ],
+    "images":[
+      "img/product-17/disc-container-50-55-mm.png",
+      "img/product-17/disc-container-50-55-mm-2.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pojemnik na tarcze 75 mm",
+    "price": 25,
+    "category": "other-gadgets",
+    "description": [
+      "Pojemnik do przechowywania tarczy 75mm"
+    ],
+    "images":[
+      "img/product-18/75mm-disc holder.png",
+      "img/product-18/75mm-disc holder-2.png",
+      "img/product-18/75mm-disc holder-3.png"
+    ]
+  }
+]
