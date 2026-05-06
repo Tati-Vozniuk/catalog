@@ -31,7 +31,7 @@ fetch("./products.json")
             <img src="${product.images[0]}" alt="${product.name}" class="img-main-products">
             <h2 class="text-main-products">
                 <span class="product-title">${product.name}</span>
-                <span class="text-main-products-price">${product.price}</span>
+                <span class="text-main-products-price">${product.price} zl</span>
             </h2>
         </a>
       `;
