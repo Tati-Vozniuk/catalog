@@ -58,19 +58,19 @@ body {
     max-width: 58px;
 }
 
-.logo-text{
-    font-weight: 500;
-    font-size: 25px;
-    margin-left: 15px;
-    color: var(--main-color);
-}
-
-.logo-link {
+.logo-link{
     display: flex;
     align-items: center;
     text-decoration: none;
     color: inherit; 
     gap: 15px;
+}
+
+.logo-text{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 5px;
+    color: var(--main-color);
 }
 
 .divider{
@@ -85,7 +85,7 @@ body {
     flex-wrap: wrap;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
 
     padding-bottom: 20px;
 }
@@ -109,6 +109,7 @@ body {
     background: none;
     border: none;
     padding: 0;
+    text-decoration: none;
 }
 
 .view-all-but:hover .circle {
@@ -130,13 +131,6 @@ body {
     min-height: 400px; 
     max-width: 330px;
 }
-
-/*
-.bottom {
-    margin-top: auto;
-}
-*/
-
 
 /*Main Page Category - category button*/
 
@@ -200,6 +194,144 @@ body {
 }
 
 
+/*All in category*/
+.catalog-header-all-in{
+    color: #425E7F;
+    font-size: 35px;
+}
+
+.catalog-header-category{
+    font-weight: 700;
+    color: var(--main-color);
+    font-size: 55px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.header-box-category {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    gap: 25px;
+}
+
+
+/*Single product page*/
+.catalog-header-single-product{
+    font-weight: 600;
+    color: var(--main-color);
+    font-size: 55px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.product-info{
+    display: flex;
+}
+
+.product-gallery {
+  max-width: 420px;
+    padding: 27px;
+    padding-right: 70px;
+}
+
+.main-image {
+  width: 100%;
+  min-width: 370px;
+  overflow: hidden;
+  border: 2px solid var(--main-color);
+  position: relative;
+  overflow: visible;
+   display: inline-block;
+}
+
+.main-image img {
+  width: 100%;
+  height: auto; 
+  display: block
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  font-size: 46px;
+  font-weight: 300;
+  color: var(--main-color);
+  cursor: pointer;
+  padding: 0 6px;
+  line-height: 1;
+  z-index: 10;
+  user-select: none;
+}
+
+.arrow:hover {
+  color: #8194A9;
+  transition: color 0.3s;
+}
+
+.left {
+  left: -28px;
+}
+
+.right {
+  right: -28px;
+}
+
+.thumbnails {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+#thumbnails {
+  display: flex;
+  justify-content: space-between; 
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.thumbnails img {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+  opacity: 0.6;
+  border: 2px solid var(--main-color);
+}
+
+.thumbnails img.active {
+  opacity: 1;
+  border: 2px solid var(--main-color);
+}
+
+.product-header{
+    font-size: 30px;
+    font-weight: 500;
+    color: var(--main-color);
+    margin-bottom: 10px;
+}
+
+.product-price{
+    font-size: 30px;
+    font-weight: 400;
+    color: var(--main-color);
+    margin-top: 0px;
+}
+
+.product-desc{
+    font-size: 25px;
+    font-weight: 300;
+    padding-left: 0;
+    list-style: none;
+}
+
+
 /*Footer*/
 footer {
   margin-top: auto;
@@ -211,6 +343,7 @@ footer {
     font-size: 24px;
     font-weight: 500;
     padding-left: 10px;
+    margin-bottom: 0;
 }
 
 .social-media-links{
@@ -229,4 +362,219 @@ footer {
     gap: 30px; 
     flex-wrap: wrap; 
     padding-left: 10px;
+}
+
+
+/* =============================================
+   MOBILE STYLES (до 768px)
+   ============================================= */
+
+@media (max-width: 768px) {
+
+    body {
+        margin: 12px;
+        margin-bottom: 0;
+    }
+
+    /* Хедер — лого зліва, назва каталогу під ним */
+    .header-box {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+        margin-top: 12px;
+        margin-bottom: 16px;
+    }
+
+    .catalog-header {
+        position: static;
+        transform: none;
+        font-size: 32px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+    }
+
+    .logo-img {
+        max-width: 40px;
+    }
+
+    .logo-text {
+        font-size: 16px;
+    }
+
+    /* Категорії — одна колонка */
+    .category-box {
+        flex-direction: column;
+        align-items: stretch;
+        padding-bottom: 12px;
+    }
+
+    .category-item {
+        max-width: 100%;
+        min-height: unset;
+        flex: unset;
+    }
+
+    .sandind-tool-text {
+        font-size: 22px;
+    }
+
+    .icon {
+        width: 44px;
+        height: 44px;
+    }
+
+    .view-all-text {
+        font-size: 18px;
+    }
+
+    /* Картки продуктів */
+    .button-main-products {
+        max-width: 100%;
+        padding: 10px;
+        margin-top: 6px;
+    }
+
+    .product-title {
+        font-size: 18px;
+    }
+
+    .text-main-products-price {
+        font-size: 16px;
+    }
+
+    /* Заголовки сторінки категорії */
+    .catalog-header-all-in {
+        font-size: 22px;
+    }
+
+    .catalog-header-category {
+        font-size: 30px;
+    }
+
+    .header-box-category {
+        gap: 10px;
+        margin-top: 12px;
+        margin-bottom: 16px;
+    }
+
+    /* Сторінка одного товару */
+    .catalog-header-single-product {
+        font-size: 28px;
+    }
+
+    .product-info {
+        flex-direction: column;
+    }
+
+    .product-gallery {
+        max-width: 100%;
+        padding: 10px;
+        padding-right: 10px;
+    }
+
+    .main-image {
+        min-width: unset;
+        width: 100%;
+    }
+
+    /* Стрілки галереї ближче до країв */
+    .left {
+        left: -18px;
+    }
+
+    .right {
+        right: -18px;
+    }
+
+    .arrow {
+        font-size: 34px;
+    }
+
+    .thumbnails img {
+        width: 74px;
+        height: 74px;
+    }
+
+    .product-header {
+        font-size: 22px;
+    }
+
+    .product-price {
+        font-size: 22px;
+    }
+
+    .product-desc {
+        font-size: 18px;
+    }
+
+    /* Футер */
+    .footer-main-text {
+        font-size: 18px;
+    }
+
+    .social-media-links-text {
+        font-size: 16px;
+    }
+
+    .social-media-box {
+        gap: 16px;
+    }
+}
+
+
+/* =============================================
+   ДУЖЕ МАЛИЙ ЕКРАН (до 400px)
+   ============================================= */
+
+@media (max-width: 400px) {
+
+    body {
+        margin: 8px;
+        margin-bottom: 0;
+    }
+
+    .catalog-header {
+        font-size: 24px;
+    }
+
+    .catalog-header-category,
+    .catalog-header-single-product {
+        font-size: 24px;
+    }
+
+    .catalog-header-all-in {
+        font-size: 18px;
+    }
+
+    .sandind-tool-text {
+        font-size: 18px;
+    }
+
+    .product-header,
+    .product-price {
+        font-size: 19px;
+    }
+
+    .product-desc {
+        font-size: 16px;
+    }
+
+    .thumbnails img {
+        width: 44px;
+        height: 44px;
+    }
+
+    .left {
+        left: -14px;
+    }
+
+    .right {
+        right: -14px;
+    }
+
+    .arrow {
+        font-size: 28px;
+    }
 }

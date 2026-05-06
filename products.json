@@ -25,8 +25,8 @@
     "category": "sanding-pads",
     "description": [
      "Pad do szlifowania gładzi - trapezowy",
-     "Profesjonalny pad do ręcznego szlifowania gładzi . Kształt",
-      "trapezu ułatwia pracę przy narożnikach oraz trudno dostępnych miejscach",
+     "Profesjonalny pad do ręcznego szlifowania gładzi.",
+      "Kształt trapezu ułatwia pracę przy narożnikach oraz trudno dostępnych miejscach",
       "Stabilna i wytrzymała konstrukcja z druku 3D( petg)",
       "Wygodny, ergonomiczny uchwyt",
       "Mocowanie na rzep - szybka wymiana papieru ściernego",
@@ -149,23 +149,31 @@
   },
   {
     "id": 8,
-    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
-    "price": 30,
+    "name": "LED do szlifierki Mirka Leros",
+    "price": 220,
     "category": "other-gadgets",
     "description": [
-      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
-      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
-      "Wytrzymała obudowa.",
-      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
-      "Szybki dostęp bez schylania się i szukania.",
-      "Wygodne mocowanie do paska/kieszeni.",
-      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
-      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+      "Podświetlenie LED do szlifierki Mirka Leros.",
+      "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
+      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
+      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
+      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
+      "Zalety produktu:",
+      "Podświetlenie LED przeznaczone do Mirka Leros.",
+      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
+      "Lekkie i łatwe w montażu.",
+      "Mobilne zasilanie z powerbanku.",
+      "Zestaw zawiera:",
+      "Obręcz z taśmą LED.",
+      "2 x powerbank.",
+      "Kabel USB do ładowania.",
+      "Uchwyt na baterię.",
+      "Czas pracy:",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
+      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
     ],
     "images":[
-      "img/product-8/professional-magnetic-spatula-holder.png",
-      "img/product-8/professional-magnetic-spatula-holder-2.png",
-      "img/product-8/professional-magnetic-spatula-holder-3.png"
+      "img/product-8/LED-for-mirka-leros-sander.png"
     ]
   },
   {
@@ -218,33 +226,25 @@
       "img/product-10/wire-soldering-holder-2.png"
     ]
   },
-  {
+    {
     "id": 11,
-    "name": "LED do szlifierki Mirka Leros",
-    "price": 220,
+    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
+    "price": 30,
     "category": "other-gadgets",
     "description": [
-      "Podświetlenie LED do szlifierki Mirka Leros.",
-      "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
-      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
-      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
-      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
-      "Zalety produktu:",
-      "Podświetlenie LED przeznaczone do Mirka Leros.",
-      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
-      "Lekkie i łatwe w montażu.",
-      "Mobilne zasilanie z powerbanku.",
-      "Zestaw zawiera:",
-      "Obręcz z taśmą LED.",
-      "2 x powerbank.",
-      "Kabel USB do ładowania.",
-      "Uchwyt na baterię.",
-      "Czas pracy:",
-      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
-      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
+      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
+      "Wytrzymała obudowa.",
+      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
     ],
     "images":[
-      "img/product-11/LED-for-mirka-leros-sander.png"
+      "img/product-11/professional-magnetic-spatula-holder.png",
+      "img/product-11/professional-magnetic-spatula-holder-2.png",
+      "img/product-11/professional-magnetic-spatula-holder-3.png"
     ]
   },
   {
@@ -281,16 +281,17 @@
   {
     "id": 13,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 180,
+    "price": 230,
     "category": "illuminated-sanding-pads",
     "description": [
       "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
       "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Płaski uchwyt umożliwia szlifowanie w trudno dostępnych miejscach.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
       "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
       "Zalety produktu:",
-      "Wbudowane oświetlenie LED, idealny do szlifowania gładzi.",
-      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Помага швидко виявляти нерівності поверхні.",
+      "Wygodny ergonomiczny uchwyt.",
       "Lekka i solidna konstrukcja.",
       "Zastosowanie:",
       "Szlifowanie gładzi.",
@@ -311,17 +312,16 @@
   {
     "id": 14,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 230,
+    "price": 180,
     "category": "illuminated-sanding-pads",
     "description": [
       "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
       "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Płaski uchwyt umożliwia szlifowanie w trudno dostępnych miejscach.",
       "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
       "Zalety produktu:",
-      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
-      "Помага швидко виявляти нерівності поверхні.",
-      "Wygodny ergonomiczny uchwyt.",
+      "Wbudowane oświetlenie LED, idealny do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
       "Lekka i solidna konstrukcja.",
       "Zastosowanie:",
       "Szlifowanie gładzi.",

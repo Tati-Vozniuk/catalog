@@ -6,7 +6,9 @@ fetch("./products.json")
     allProducts = products; 
 
     renderProducts("products-container-1", [1, 2, 3]);
-    renderProducts("products-container-2", [4, 5, 6]);
+    renderProducts("products-container-2", [12, 14, 13]);
+    renderProducts("products-container-3", [4, 5, 6]);
+    renderProducts("products-container-4", [7, 17, 9]);
   });
 
 function renderProducts(containerId, ids) {
@@ -19,7 +21,7 @@ function renderProducts(containerId, ids) {
   filtered.forEach(product => {
     const card = document.createElement("a");
 
-    card.href = `/products-pages/product.html?id=${product.id}`;
+    card.href = `single-product.html?id=${product.id}`;
     card.className = "button-main-products";
 
     card.innerHTML = `

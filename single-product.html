@@ -10,32 +10,58 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="../single-product.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
-    
-<!--
-    <div class="product-gallery">
-        <div class="main-image">
-            <img id="currentImage" src="../images/set-of-pads-for-sanding.png" alt="product" />
+    <div class="header-box-category">
+        <a href="index.html" class="logo-link">
+            <img src="img/logo.png" alt="logo" class="logo-img">
+            <p class="logo-text">S-3dprints</p>
+        </a>
+        <h1 class="catalog-header-single-product" id="product-name"></h1>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="product-info">
+        <div class="product-gallery">
+            <div class="main-image">
+                <img id="current-image" alt="product"> 
+                <button class="arrow left" id="prevBtn">&#8249;</button>
+                <button class="arrow right" id="nextBtn">&#8250;</button>
+            </div>
+            <div class="thumbnails" id="thumbnails"></div>
         </div>
 
-        <div class="thumbnails">
-            <img src="../images/set-of-pads-for-sanding.png" onclick="changeImage(this)" />
-            <img src="../images/LED-for-Bosch-GTR-550-sander.png" onclick="changeImage(this)" />
-            <img src="../images/dust-extraction-while-drilling.png" onclick="changeImage(this)" />
+        <div class="product-description-box">
+            <h2 id="product-description-header" class="product-header"></h2>
+            <h2 class="product-price">Cena <span id="product-price"></span></h2>
+            <div class="divider"></div>
+            <h2 class="product-header">Opis</h2>
+            <ul id="product-description" class="product-desc"></ul>
+            
         </div>
     </div>
--->
 
-<script>
-function changeImage(el) {
-  const main = document.getElementById("currentImage");
-  main.src = el.src;
-}
-</script>
+    <footer>
+        <h3 class="footer-main-text">My w mediach społecznościowych</h3>
+        <div class="social-media-box">
+            <a class="social-media-links" href="https://www.tiktok.com/@s_3dprint_?_r=1&_t=ZN-967tw7LSYX0" target="_blank">
+                <p class="social-media-links-text">TikTok</p>
+            </a>
 
+            <a class="social-media-links" href="https://www.facebook.com/share/1AfhXkpsAN/?mibextid=wwXIfr" target="_blank">
+                <p class="social-media-links-text">Facebook</p>
+            </a>
+
+            <a class="social-media-links" href="https://www.instagram.com/s_3dprint_?igsh=MXhmZTV4d2FvejhnbQ==" target="_blank">
+                <p class="social-media-links-text">Instagram</p>
+            </a>
+        </div>
+    </footer>
+
+    <script src="js/single-product.js"></script>
 </body>
-</html>
+</html> 
