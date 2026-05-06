@@ -22,6 +22,7 @@ function renderProducts(containerId, ids) {
     const card = document.createElement("a");
 
     card.href = `single-product.html?id=${product.id}`;
+    card.target = "_blank";
     card.className = "button-main-products";
 
     card.innerHTML = `

@@ -27,7 +27,7 @@ fetch("./products.json")
       const card = document.createElement("div");
 
       card.innerHTML = `
-        <a href="single-product.html?id=${product.id}" class="button-main-products">
+        <a href="single-product.html?id=${product.id}" class="button-main-products" target="_blank">
             <img src="${product.images[0]}" alt="${product.name}" class="img-main-products">
             <h2 class="text-main-products">
                 <span class="product-title">${product.name}</span>

@@ -65,6 +65,7 @@
     "category": "tile-gadgets",
     "price": 20,
     "description": [
+      "Uchwyt do ukosowania płytek",
       "Cena 20 zł za sztukę.",
       "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
       "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
@@ -107,6 +108,7 @@
     "price": 30,
     "category": "tile-gadgets",
     "description": [
+      "Uchwyt do ukosowania płytek",
       "Cena 30 zł za sztukę.",
       "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
       "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
@@ -390,7 +392,13 @@
     "price": 15,
     "category": "other-gadgets",
     "description": [
-      "Pojemnik z przegródkami do przechowywania tarczy 50-55 mm"
+      "Funkcjonalny i kompaktowy pojemnik zaprojektowany z myślą o bezpiecznym przechowywaniu tarcz o średnicy 50–55 mm.",
+      "Przemyślana konstrukcja z przegródkami zapewnia każdej tarczy osobne miejsce, co chroni je przed uszkodzeniami i zarysowaniami.",
+      "Solidna i wytrzymała obudowa gwarantuje bezpieczeństwo zawartości podczas codziennego użytkowania.",
+      "Wygodne zamknięcie umożliwia szybkie i łatwe otwieranie oraz zamykanie pojemnika.",
+      "Kompaktowy rozmiar pozwala na łatwe przechowywanie nawet w ograniczonej przestrzeni w warsztacie lub samochodzie.",
+      "Idealny do transportu i organizacji tarcz podczas pracy w warsztacie oraz w terenie.",
+      "Praktyczne rozwiązanie dla osób ceniących porządek i szybki dostęp do akcesoriów roboczych."
     ],
     "images":[
       "img/product-17/disc-container-50-55-mm.png",
@@ -403,7 +411,13 @@
     "price": 25,
     "category": "other-gadgets",
     "description": [
-      "Pojemnik do przechowywania tarczy 75mm"
+      "Wytrzymały i praktyczny pojemnik przeznaczony do bezpiecznego przechowywania tarcz o średnicy 75 mm.",
+      "Przemyślana konstrukcja zapewnia stabilne ułożenie tarczy, chroniąc ją przed uszkodzeniami, zarysowaniami oraz zabrudzeniem.",
+      "Wyposażony w element dociskowy, który utrzymuje zawartość na miejscu nawet podczas transportu.",
+      "Wygodne i solidne zamknięcie gwarantuje bezpieczeństwo oraz szybki dostęp do zawartości.",
+      "Karbowana pokrywa ułatwia otwieranie i zwiększa komfort użytkowania.",
+      "Solidna konstrukcja zapewnia długą żywotność produktu i odporność na intensywne użytkowanie.",
+      "Idealny do warsztatu oraz dla osób mobilnych, które potrzebują bezpiecznego transportu akcesoriów roboczych."
     ],
     "images":[
       "img/product-18/75mm-disc holder.png",
