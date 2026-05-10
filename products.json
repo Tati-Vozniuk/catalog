@@ -105,11 +105,11 @@
   {
     "id": 6,
     "name": "Uchwyt do ukosowania płytek",
-    "price": 30,
+    "price": 35,
     "category": "tile-gadgets",
     "description": [
       "Uchwyt do ukosowania płytek",
-      "Cena 30 zł za sztukę.",
+      "Cena 35 zł za sztukę.",
       "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
       "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
       "Możliwość dostosowania kątów mocowania do własnych potrzeb.",
@@ -345,7 +345,7 @@
   {
     "id": 15,
     "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
-    "price": 140,
+    "price": 160,
     "category": "illuminated-sanding-pads",
     "description": [
       "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
