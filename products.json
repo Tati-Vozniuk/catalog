@@ -150,35 +150,6 @@
     ]
   },
   {
-    "id": 8,
-    "name": "LED do szlifierki Mirka Leros",
-    "price": 220,
-    "category": "other-gadgets",
-    "description": [
-      "Podświetlenie LED do szlifierki Mirka Leros.",
-      "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
-      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
-      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
-      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
-      "Zalety produktu:",
-      "Podświetlenie LED przeznaczone do Mirka Leros.",
-      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
-      "Lekkie i łatwe w montażu.",
-      "Mobilne zasilanie z powerbanku.",
-      "Zestaw zawiera:",
-      "Obręcz z taśmą LED.",
-      "2 x powerbank.",
-      "Kabel USB do ładowania.",
-      "Uchwyt na baterię.",
-      "Czas pracy:",
-      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
-      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
-    ],
-    "images":[
-      "img/product-8/LED-for-mirka-leros-sander.png"
-    ]
-  },
-  {
     "id": 9,
     "name": "LED do szlifierki Bosch GTR 550",
     "price": 120,
@@ -226,27 +197,6 @@
     "images":[
       "img/product-10/wire-soldering-holder.png",
       "img/product-10/wire-soldering-holder-2.png"
-    ]
-  },
-    {
-    "id": 11,
-    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
-    "price": 30,
-    "category": "other-gadgets",
-    "description": [
-      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
-      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
-      "Wytrzymała obudowa.",
-      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
-      "Szybki dostęp bez schylania się i szukania.",
-      "Wygodne mocowanie do paska/kieszeni.",
-      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
-      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
-    ],
-    "images":[
-      "img/product-11/professional-magnetic-spatula-holder.png",
-      "img/product-11/professional-magnetic-spatula-holder-2.png",
-      "img/product-11/professional-magnetic-spatula-holder-3.png"
     ]
   },
   {
@@ -370,24 +320,6 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Uchwyt na taśmę/fizelinę z magnesem",
-    "price": 40,
-    "category": "other-gadgets",
-    "description": [
-      "Profesjonalny uchwyt na taśmę z magnesem.",
-      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania nożyczek.",
-      "Wytrzymała obudowa.",
-      "Szybki dostęp bez schylania się i szukania.",
-      "Wygodne mocowanie do paska/kieszeni.",
-      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
-      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
-    ],
-    "images":[
-      "img/product-16/tape-fleece-holder-with-magnet.png"
-    ]
-  },
-  {
     "id": 17,
     "name": "Pojemnik na tarcze 50-55 mm",
     "price": 15,
@@ -424,6 +356,84 @@
       "img/product-18/75mm-disc holder.png",
       "img/product-18/75mm-disc holder-2.png",
       "img/product-18/75mm-disc holder-3.png"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Pad do szlifowania gładzi (półksiężyc )",
+    "price": 80,
+    "category": "sanding-pads",
+    "description": [
+      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
+      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
+      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
+      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
+      "Precyzyjne szlifowanie.",
+      "Trwałe tworzywo."
+    ],
+    "images":[
+      "img/product-19/smooting-sanding-pad-orange.png",
+      "img/product-19/smooting-sanding-pad-orange-2.png",
+      "img/product-19/smooting-sanding-pad-orange-3.png",
+      "img/product-19/smooting-sanding-pad-orange-4.png"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Zestaw uchwytów na taśmę/fizelinę",
+    "price": 25,
+    "category": "other-gadgets",
+    "description": [
+      "Praktyczny zestaw 2 uchwytów na taśmę w dwóch wygodnych rozmiarach.",
+      "Wytrzymała konstrukcja zapewnia trwałość oraz komfort codziennego użytkowania.",
+      "Szybki dostęp do taśmy bez schylania się i tracenia czasu na szukanie.",
+      "Wygodne mocowanie do paska lub kieszeni gwarantuje swobodę pracy.",
+      "Idealne rozwiązanie dla malarzy, tynkarzy oraz ekip wykończeniowych.",
+      "Komfortowa i efektywna praca na budowie."
+    ],
+    "images":[
+      "img/product-20/set-of-tapefelt-holders.png",
+      "img/product-20/set-of-tapefelt-holders-2.png",
+      "img/product-20/set-of-tapefelt-holders-3.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
+    "price": 30,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
+      "Wytrzymała obudowa.",
+      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-11/professional-magnetic-spatula-holder.png",
+      "img/product-11/professional-magnetic-spatula-holder-2.png",
+      "img/product-11/professional-magnetic-spatula-holder-3.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Uchwyt na taśmę/fizelinę z magnesem",
+    "price": 40,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny uchwyt na taśmę z magnesem.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania nożyczek.",
+      "Wytrzymała obudowa.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-16/tape-fleece-holder-with-magnet.png"
     ]
   }
 ]
