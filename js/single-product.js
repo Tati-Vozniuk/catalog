@@ -21,7 +21,7 @@ fetch("./products.json")
 
       product.description.slice(1).forEach(item => {
         const li = document.createElement("li");
-        li.textContent = item;
+        li.innerHTML = item;
         descriptionContainer.appendChild(li);
       });
     }
