@@ -182,7 +182,7 @@
   },
     {
     "id": 20,
-    "name": "Zestaw uchwytów na taśmę/fizelinę",
+    "name": "Zestaw uchwytów na taśmę",
     "price": 35,
     "category": "other-gadgets",
     "description": [
@@ -201,7 +201,7 @@
   },
   {
     "id": 16,
-    "name": "Uchwyt na taśmę/fizelinę z magnesem",
+    "name": "Uchwyt na fizelinę z magnesem",
     "price": 50,
     "category": "other-gadgets",
     "description": [
