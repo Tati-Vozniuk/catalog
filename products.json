@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Zestaw padów dla szlifowania gładzi",
-    "price": 95,
+    "price": 120,
     "category": "sanding-pads",
     "description": [
       "Zestaw 4 padów do szlifowania gładzi w trudno dostępnych miejscach",
@@ -19,9 +19,28 @@
     ]
   },
   {
+    "id": 3,
+    "name": "Pad do szlifowania gładzi (półksiężyc )",
+    "price": 50,
+    "category": "sanding-pads",
+    "description": [
+      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
+      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
+      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
+      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
+      "Precyzyjne szlifowanie.",
+      "Trwałe tworzywo."
+    ],
+    "images":[
+      "img/product-3/smoothing-sanding-pad.png",
+      "img/product-3/smoothing-sanding-pad-2.png",
+      "img/product-3/smoothing-sanding-pad-3.png"
+    ]
+  },
+  {
     "id": 2,
     "name": "Pad trapezowy do szlifowania gładzi",
-    "price": 50,
+    "price": 60,
     "category": "sanding-pads",
     "description": [
      "Pad do szlifowania gładzi - trapezowy",
@@ -41,32 +60,13 @@
     ]
   },
   {
-    "id": 3,
-    "name": "Pad do szlifowania gładzi (półksiężyc )",
-    "price": 40,
-    "category": "sanding-pads",
-    "description": [
-      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
-      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
-      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
-      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
-      "Precyzyjne szlifowanie.",
-      "Trwałe tworzywo."
-    ],
-    "images":[
-      "img/product-3/smoothing-sanding-pad.png",
-      "img/product-3/smoothing-sanding-pad-2.png",
-      "img/product-3/smoothing-sanding-pad-3.png"
-    ]
-  },
-  {
     "id": 4,
     "name": "Uchwyt do ukosowania płytek",
     "category": "tile-gadgets",
-    "price": 20,
+    "price": 25,
     "description": [
       "Uchwyt do ukosowania płytek",
-      "Cena 20 zł za sztukę.",
+      "Cena 25 zł za sztukę.",
       "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
       "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
       "Wytrzymała konstrukcja (druk 3D).",
@@ -79,9 +79,29 @@
     ]
   },
   {
+    "id": 6,
+    "name": "Uchwyt do ukosowania płytek",
+    "price": 40,
+    "category": "tile-gadgets",
+    "description": [
+      "Uchwyt do ukosowania płytek",
+      "Cena 40 zł za sztukę.",
+      "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
+      "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
+      "Możliwość dostosowania kątów mocowania do własnych potrzeb.",
+      "Idealny dla glazurników i ekip remontowych."
+    ],
+    "images":[
+      "img/product-6/tile-beveling-holder.png",
+      "img/product-6/tile-beveling-holder-2.png",
+      "img/product-6/tile-beveling-holder-3.png",
+      "img/product-6/tile-beveling-holder-4.png"
+    ]
+  },
+  {
     "id": 5,
     "name": "Klips/zacisk do ściągania płytek",
-    "price": 30,
+    "price": 40,
     "category": "tile-gadgets",
     "description": [
       "Zacisk do narożników płytek (zewnętrznych i wewnętrznych).",
@@ -103,23 +123,119 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Uchwyt do ukosowania płytek",
-    "price": 35,
-    "category": "tile-gadgets",
+    "id": 9,
+    "name": "LED do szlifierki Bosch GTR 550",
+    "price": 150,
+    "category": "other-gadgets",
     "description": [
-      "Uchwyt do ukosowania płytek",
-      "Cena 35 zł za sztukę.",
-      "Praktyczny uchwyt do stabilnego mocowania płytki podczas cięcia pod kątem 45 stopni.",
-      "Ułatwia precyzyjną pracę i zapewnia bezpieczeństwo podczas obróbki.",
-      "Możliwość dostosowania kątów mocowania do własnych potrzeb.",
-      "Idealny dla glazurników i ekip remontowych."
+      "Podświetlenie LED do szlifierki Bosch GTR 550.",
+      "Praktyczne podświetlenie LED przeznaczone do szlifierki Bosch GTR 550, które poprawia widoczność powierzchni podczas pracy.",
+      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
+      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
+      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Podświetlenie LED przeznaczone do Bosch GTR 550.",
+      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
+      "Lekkie i łatwe w montażu.",
+      "Mobilne zasilanie z powerbanku.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Obręcz z taśmą LED.",
+      "2 x powerbank.",
+      "Kabel USB do ładowania.",
+      "Wkręty do montażu.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
+      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
     ],
     "images":[
-      "img/product-6/tile-beveling-holder.png",
-      "img/product-6/tile-beveling-holder-2.png",
-      "img/product-6/tile-beveling-holder-3.png",
-      "img/product-6/tile-beveling-holder-4.png"
+      "img/product-9/LED-for-Bosch-GTR-550-sander.png"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "LED do szlifierki Mirka Leros",
+    "price": 415,
+    "category": "other-gadgets",
+    "description": [
+     "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
+      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
+      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
+      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "podświetlenie LED przeznaczone do Mirka Leros",
+      "poprawia widoczność podczas szlifowania, pomaga wykryć nierówności i niedoskonałości powierzchni",
+      "lekkie i łatwe w montażu",
+      "mobilne zasilanie z powerbanku",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Obręcz z taśmą LED",
+      "2 x powerbank",
+      "kabel USB do ładowania",
+      "klucz imbusowy",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "jeden powerbank zapewnia ponad 3 godziny ciągłej pracy",
+      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
+    ],
+    "images":[
+      "img/product-21/LED-light-for-Mirka-Leros-sander.png",
+      "img/product-21/LED-light-for-Mirka-Leros-sander-2.png"
+    ]
+  },
+    {
+    "id": 20,
+    "name": "Zestaw uchwytów na taśmę/fizelinę",
+    "price": 35,
+    "category": "other-gadgets",
+    "description": [
+      "Praktyczny zestaw 2 uchwytów na taśmę w dwóch wygodnych rozmiarach.",
+      "Wytrzymała konstrukcja zapewnia trwałość oraz komfort codziennego użytkowania.",
+      "Szybki dostęp do taśmy bez schylania się i tracenia czasu na szukanie.",
+      "Wygodne mocowanie do paska lub kieszeni gwarantuje swobodę pracy.",
+      "Idealne rozwiązanie dla malarzy, tynkarzy oraz ekip wykończeniowych.",
+      "Komfortowa i efektywna praca na budowie."
+    ],
+    "images":[
+      "img/product-20/set-of-tapefelt-holders.png",
+      "img/product-20/set-of-tapefelt-holders-2.png",
+      "img/product-20/set-of-tapefelt-holders-3.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Uchwyt na taśmę/fizelinę z magnesem",
+    "price": 50,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny uchwyt na taśmę z magnesem.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania nożyczek.",
+      "Wytrzymała obudowa.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-16/tape-fleece-holder-with-magnet.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
+    "price": 40,
+    "category": "other-gadgets",
+    "description": [
+      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
+      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
+      "Wytrzymała obudowa.",
+      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
+      "Szybki dostęp bez schylania się i szukania.",
+      "Wygodne mocowanie do paska/kieszeni.",
+      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
+      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
+    ],
+    "images":[
+      "img/product-11/professional-magnetic-spatula-holder.png",
+      "img/product-11/professional-magnetic-spatula-holder-2.png",
+      "img/product-11/professional-magnetic-spatula-holder-3.png"
     ]
   },
   {
@@ -150,38 +266,9 @@
     ]
   },
   {
-    "id": 9,
-    "name": "LED do szlifierki Bosch GTR 550",
-    "price": 120,
-    "category": "other-gadgets",
-    "description": [
-      "Podświetlenie LED do szlifierki Bosch GTR 550.",
-      "Praktyczne podświetlenie LED przeznaczone do szlifierki Bosch GTR 550, które poprawia widoczność powierzchni podczas pracy.",
-      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
-      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
-      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Podświetlenie LED przeznaczone do Bosch GTR 550.",
-      "Poprawia widoczność podczas szlifowania i pomaga wykryć nierówności oraz niedoskonałości powierzchni.",
-      "Lekkie i łatwe w montażu.",
-      "Mobilne zasilanie z powerbanku.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Obręcz z taśmą LED.",
-      "2 x powerbank.",
-      "Kabel USB do ładowania.",
-      "Wkręty do montażu.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy.",
-      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
-    ],
-    "images":[
-      "img/product-9/LED-for-Bosch-GTR-550-sander.png"
-    ]
-  },
-  {
     "id": 10,
     "name": "Uchwyt do lutowania przewodów",
-    "price": 30,
+    "price": 40,
     "category": "other-gadgets",
     "description": [
       "Uchwyt do lutowania przewodów (trzecia ręka do lutowania).",
@@ -200,40 +287,9 @@
     ]
   },
   {
-    "id": 12,
-    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 200,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
-      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
-      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
-      "Pomaga szybko wykryć nierówności powierzchni.",
-      "Wygodny ergonomiczny uchwyt.",
-      "Lekka i solidna konstrukcja.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
-      "Szlifowanie gładzi.",
-      "Prace wykończeniowe.",
-      "Przygotowanie ścian i sufitów do malowania.",
-      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:<span>",
-      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-12/hand-sanding-pad-with-LED-lighting.png"
-    ]
-  },
-  {
     "id": 13,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 200,
+    "price": 220,
     "category": "illuminated-sanding-pads",
     "description": [
       "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
@@ -263,9 +319,67 @@
     ]
   },
   {
+    "id": 15,
+    "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
+    "price": 180,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
+      "Profesjonalny pad do szlifowania gładzi z wbudowanym oświetleniem LED.",
+      "Dzięki podświetleniu dokładnie widać wszystkie nierówności i niedoskonałości powierzchni podczas pracy.",
+      "Ergonomiczny uchwyt zapewnia wygodę użytkowania, a solidna konstrukcja gwarantuje trwałość i stabilność.",
+      "Idealna do prac wykończeniowych oraz dla wymagających fachowców.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Podświetlenie LED - lepsza kontrola powierzchni.",
+      "Do gładzi.",
+      "Wygodny uchwyt.",
+      "Precyzyjne szlifowanie.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-15/Iron-pad-for-sanding-plaster-with-LED-lighting.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 220,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Wygodny ergonomiczny uchwyt.",
+      "Lekka i solidna konstrukcja.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:<span>",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-12/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+  {
     "id": 14,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 180,
+    "price": 200,
     "category": "illuminated-sanding-pads",
     "description": [
       "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
@@ -293,36 +407,9 @@
     ]
   },
   {
-    "id": 15,
-    "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
-    "price": 160,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
-      "Profesjonalny pad do szlifowania gładzi z wbudowanym oświetleniem LED.",
-      "Dzięki podświetleniu dokładnie widać wszystkie nierówności i niedoskonałości powierzchni podczas pracy.",
-      "Ergonomiczny uchwyt zapewnia wygodę użytkowania, a solidna konstrukcja gwarantuje trwałość i stabilność.",
-      "Idealna do prac wykończeniowych oraz dla wymagających fachowców.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Podświetlenie LED - lepsza kontrola powierzchni.",
-      "Do gładzi.",
-      "Wygodny uchwyt.",
-      "Precyzyjne szlifowanie.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-15/Iron-pad-for-sanding-plaster-with-LED-lighting.png"
-    ]
-  },
-  {
     "id": 17,
     "name": "Pojemnik na tarcze 50-55 mm",
-    "price": 15,
+    "price": 20,
     "category": "other-gadgets",
     "description": [
       "Funkcjonalny i kompaktowy pojemnik zaprojektowany z myślą o bezpiecznym przechowywaniu tarcz o średnicy 50–55 mm.",
@@ -341,7 +428,7 @@
   {
     "id": 18,
     "name": "Pojemnik na tarcze 75 mm",
-    "price": 25,
+    "price": 35,
     "category": "other-gadgets",
     "description": [
       "Wytrzymały i praktyczny pojemnik przeznaczony do bezpiecznego przechowywania tarcz o średnicy 75 mm.",
@@ -361,7 +448,7 @@
   {
     "id": 19,
     "name": "Pad do szlifowania gładzi (półksiężyc )",
-    "price": 80,
+    "price": 100,
     "category": "sanding-pads",
     "description": [
       "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
@@ -376,93 +463,6 @@
       "img/product-19/smooting-sanding-pad-orange-2.png",
       "img/product-19/smooting-sanding-pad-orange-3.png",
       "img/product-19/smooting-sanding-pad-orange-4.png"
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Zestaw uchwytów na taśmę/fizelinę",
-    "price": 25,
-    "category": "other-gadgets",
-    "description": [
-      "Praktyczny zestaw 2 uchwytów na taśmę w dwóch wygodnych rozmiarach.",
-      "Wytrzymała konstrukcja zapewnia trwałość oraz komfort codziennego użytkowania.",
-      "Szybki dostęp do taśmy bez schylania się i tracenia czasu na szukanie.",
-      "Wygodne mocowanie do paska lub kieszeni gwarantuje swobodę pracy.",
-      "Idealne rozwiązanie dla malarzy, tynkarzy oraz ekip wykończeniowych.",
-      "Komfortowa i efektywna praca na budowie."
-    ],
-    "images":[
-      "img/product-20/set-of-tapefelt-holders.png",
-      "img/product-20/set-of-tapefelt-holders-2.png",
-      "img/product-20/set-of-tapefelt-holders-3.png"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
-    "price": 30,
-    "category": "other-gadgets",
-    "description": [
-      "Profesjonalny magnetyczny uchwyt na szpachelkę.",
-      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania szpachelek.",
-      "Wytrzymała obudowa.",
-      "5 silnych magnesów - narzędzie trzyma się stabilnie.",
-      "Szybki dostęp bez schylania się i szukania.",
-      "Wygodne mocowanie do paska/kieszeni.",
-      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
-      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
-    ],
-    "images":[
-      "img/product-11/professional-magnetic-spatula-holder.png",
-      "img/product-11/professional-magnetic-spatula-holder-2.png",
-      "img/product-11/professional-magnetic-spatula-holder-3.png"
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Uchwyt na taśmę/fizelinę z magnesem",
-    "price": 40,
-    "category": "other-gadgets",
-    "description": [
-      "Profesjonalny uchwyt na taśmę z magnesem.",
-      "Solidny i wygodny uchwyt z mocnymi magnesami neodymowymi do bezpiecznego trzymania nożyczek.",
-      "Wytrzymała obudowa.",
-      "Szybki dostęp bez schylania się i szukania.",
-      "Wygodne mocowanie do paska/kieszeni.",
-      "Idealny dla malarzy, tynkarzy i ekip wykończeniowych.",
-      "Praktyczne rozwiązanie dla komfortowej i efektywnej pracy na budowie."
-    ],
-    "images":[
-      "img/product-16/tape-fleece-holder-with-magnet.png"
-    ]
-  },
-  {
-    "id": 21,
-    "name": "LED do szlifierki Mirka Leros",
-    "price": 320,
-    "category": "other-gadgets",
-    "description": [
-     "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
-      "Dzięki równomiernemu oświetleniu łatwo zauważyć nierówności, rysy oraz niedoskonałości podczas szlifowania, szczególnie przy obróbce gładzi.",
-      "Podświetlenie montowane jest wokół szlifierki i zapewnia dokładne oświetlenie obrabianej powierzchni.",
-      "Zasilanie z powerbanku umożliwia wygodną i mobilną pracę bez potrzeby podłączania urządzenia do gniazdka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "podświetlenie LED przeznaczone do Mirka Leros",
-      "poprawia widoczność podczas szlifowania, pomaga wykryć nierówności i niedoskonałości powierzchni",
-      "lekkie i łatwe w montażu",
-      "mobilne zasilanie z powerbanku",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Obręcz z taśmą LED",
-      "2 x powerbank",
-      "kabel USB do ładowania",
-      "klucz imbusowy",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "jeden powerbank zapewnia ponad 3 godziny ciągłej pracy",
-      "Idealne rozwiązanie dla osób zajmujących się wykończeniem wnętrz, które chcą dokładniej kontrolować jakość powierzchni podczas szlifowania."
-    ],
-    "images":[
-      "img/product-21/LED-light-for-Mirka-Leros-sander.png",
-      "img/product-21/LED-light-for-Mirka-Leros-sander-2.png"
     ]
   }
 ]
