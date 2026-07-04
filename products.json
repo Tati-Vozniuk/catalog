@@ -60,6 +60,146 @@
     ]
   },
   {
+    "id": 19,
+    "name": "Pad do szlifowania gładzi (półksiężyc )",
+    "price": 100,
+    "category": "sanding-pads",
+    "description": [
+      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
+      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
+      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
+      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
+      "Precyzyjne szlifowanie.",
+      "Trwałe tworzywo."
+    ],
+    "images":[
+      "img/product-19/smooting-sanding-pad-orange.png",
+      "img/product-19/smooting-sanding-pad-orange-2.png",
+      "img/product-19/smooting-sanding-pad-orange-4.png",
+      "img/product-19/smooting-sanding-pad-orange-3.png"
+    ]
+  },  
+  {
+    "id": 13,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 220,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni",
+      "Wygodny ergonomiczny uchwyt.",
+      "Lekka i solidna konstrukcja.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-13/hand-sanding-pad-with-LED-lighting.png",
+      "img/product-13/hand-sanding-pad-with-LED-lighting-2.png"
+    ]
+  },
+    {
+    "id": 12,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 220,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Wygodny ergonomiczny uchwyt.",
+      "Lekka i solidna konstrukcja.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:<span>",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-12/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+    {
+    "id": 15,
+    "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
+    "price": 180,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
+      "Profesjonalny pad do szlifowania gładzi z wbudowanym oświetleniem LED.",
+      "Dzięki podświetleniu dokładnie widać wszystkie nierówności i niedoskonałości powierzchni podczas pracy.",
+      "Ergonomiczny uchwyt zapewnia wygodę użytkowania, a solidna konstrukcja gwarantuje trwałość i stabilność.",
+      "Idealna do prac wykończeniowych oraz dla wymagających fachowców.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Podświetlenie LED - lepsza kontrola powierzchni.",
+      "Do gładzi.",
+      "Wygodny uchwyt.",
+      "Precyzyjne szlifowanie.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-15/Iron-pad-for-sanding-plaster-with-LED-lighting.png"
+    ]
+  },
+    {
+    "id": 14,
+    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
+    "price": 200,
+    "category": "illuminated-sanding-pads",
+    "description": [
+      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
+      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
+      "Płaski uchwyt umożliwia szlifowanie w trudno dostępnych miejscach.",
+      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+      "Wbudowane oświetlenie LED, idealny do szlifowania gładzi.",
+      "Pomaga szybko wykryć nierówności powierzchni.",
+      "Lekka i solidna konstrukcja.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
+      "Szlifowanie gładzi.",
+      "Prace wykończeniowe.",
+      "Przygotowanie ścian i sufitów do malowania.",
+      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+      "Pad do szlifowania.",
+      "2 powerbanki.",
+      "Ładowarka.",
+      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
+      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
+    ],
+    "images":[
+      "img/product-14/hand-sanding-pad-with-LED-lighting.png"
+    ]
+  },
+  {
     "id": 4,
     "name": "Uchwyt do ukosowania płytek",
     "category": "tile-gadgets",
@@ -287,126 +427,6 @@
     ]
   },
   {
-    "id": 13,
-    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 220,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
-      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
-      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
-      "Pomaga szybko wykryć nierówności powierzchni",
-      "Wygodny ergonomiczny uchwyt.",
-      "Lekka i solidna konstrukcja.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
-      "Szlifowanie gładzi.",
-      "Prace wykończeniowe.",
-      "Przygotowanie ścian i sufitów do malowania.",
-      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-13/hand-sanding-pad-with-LED-lighting.png",
-      "img/product-13/hand-sanding-pad-with-LED-lighting-2.png"
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Pad \"Żelazko\" do szlifowania gładzi z LED oświetleniem",
-    "price": 180,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Pad „żelazko” do szlifowania gładzi z podświetleniem LED.",
-      "Profesjonalny pad do szlifowania gładzi z wbudowanym oświetleniem LED.",
-      "Dzięki podświetleniu dokładnie widać wszystkie nierówności i niedoskonałości powierzchni podczas pracy.",
-      "Ergonomiczny uchwyt zapewnia wygodę użytkowania, a solidna konstrukcja gwarantuje trwałość i stabilność.",
-      "Idealna do prac wykończeniowych oraz dla wymagających fachowców.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Podświetlenie LED - lepsza kontrola powierzchni.",
-      "Do gładzi.",
-      "Wygodny uchwyt.",
-      "Precyzyjne szlifowanie.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "Jeden powerbank zapewnia ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-15/Iron-pad-for-sanding-plaster-with-LED-lighting.png"
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 220,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
-      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Ergonomiczna rączka zapewnia wygodny chwyt i komfort podczas długiej pracy.",
-      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Wbudowane oświetlenie LED, idealne do szlifowania gładzi.",
-      "Pomaga szybko wykryć nierówności powierzchni.",
-      "Wygodny ergonomiczny uchwyt.",
-      "Lekka i solidna konstrukcja.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
-      "Szlifowanie gładzi.",
-      "Prace wykończeniowe.",
-      "Przygotowanie ścian i sufitów do malowania.",
-      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:<span>",
-      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-12/hand-sanding-pad-with-LED-lighting.png"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Pad do ręcznego szlifowania z oświetleniem LED",
-    "price": 200,
-    "category": "illuminated-sanding-pads",
-    "description": [
-      "Profesjonalny pad do ręcznego szlifowania z wbudowanym oświetleniem LED, który ułatwia kontrolę powierzchni podczas pracy.",
-      "Dzięki podświetleniu można łatwo zauważyć nierówności, rysy oraz niedoskonałości na gładzi.",
-      "Płaski uchwyt umożliwia szlifowanie w trudno dostępnych miejscach.",
-      "Podświetlenie LED oświetla powierzchnię pod odpowiednim kątem, co pozwala dokładniej ocenić jakość szlifowania.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
-      "Wbudowane oświetlenie LED, idealny do szlifowania gładzi.",
-      "Pomaga szybko wykryć nierówności powierzchni.",
-      "Lekka i solidna konstrukcja.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
-      "Szlifowanie gładzi.",
-      "Prace wykończeniowe.",
-      "Przygotowanie ścian i sufitów do malowania.",
-      "Praktyczne narzędzie dla fachowców oraz osób wykonujących remonty, które pozwala osiągnąć dokładniejsze i bardziej profesjonalne wykończenie powierzchni.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
-      "Pad do szlifowania.",
-      "2 powerbanki.",
-      "Ładowarka.",
-      "<span style='font-weight: 500; color: var(--main-color);'>Czas pracy:</span>",
-      "Jeden powerbank to ponad 3 godziny ciągłej pracy."
-    ],
-    "images":[
-      "img/product-14/hand-sanding-pad-with-LED-lighting.png"
-    ]
-  },
-  {
     "id": 17,
     "name": "Pojemnik na tarcze 50-55 mm",
     "price": 20,
@@ -443,26 +463,6 @@
       "img/product-18/75mm-disc holder.png",
       "img/product-18/75mm-disc holder-2.png",
       "img/product-18/75mm-disc holder-3.png"
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Pad do szlifowania gładzi (półksiężyc )",
-    "price": 100,
-    "category": "sanding-pads",
-    "description": [
-      "Profesjonalny pad przeznaczony do szlifowania gładzi oraz innych mas wykończeniowych.",
-      "Solidna konstrukcja zapewnia trwałość oraz komfort użytkowania.",
-      "Ergonomiczny uchwyt gwarantuje pewny chwyt i wygodę podczas pracy.",
-      "Lekka, poręczna i praktyczna - idealna do prac remontowych i wykończeniowych.",
-      "Precyzyjne szlifowanie.",
-      "Trwałe tworzywo."
-    ],
-    "images":[
-      "img/product-19/smooting-sanding-pad-orange.png",
-      "img/product-19/smooting-sanding-pad-orange-2.png",
-      "img/product-19/smooting-sanding-pad-orange-4.png",
-      "img/product-19/smooting-sanding-pad-orange-3.png"
     ]
   }
 ]
