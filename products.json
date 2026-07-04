@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Zestaw padów dla szlifowania gładzi",
-    "price": 120,
+    "price": 115,
     "category": "sanding-pads",
     "description": [
       "Zestaw 4 padów do szlifowania gładzi w trudno dostępnych miejscach",
@@ -101,7 +101,7 @@
   {
     "id": 5,
     "name": "Klips/zacisk do ściągania płytek",
-    "price": 40,
+    "price": 35,
     "category": "tile-gadgets",
     "description": [
       "Zacisk do narożników płytek (zewnętrznych i wewnętrznych).",
@@ -154,7 +154,7 @@
   {
     "id": 21,
     "name": "LED do szlifierki Mirka Leros",
-    "price": 415,
+    "price": 390,
     "category": "other-gadgets",
     "description": [
      "Praktyczne podświetlenie LED przeznaczone do szlifierki Mirka Leros, które poprawia widoczność powierzchni podczas pracy.",
@@ -183,7 +183,7 @@
     {
     "id": 20,
     "name": "Zestaw uchwytów na taśmę",
-    "price": 35,
+    "price": 30,
     "category": "other-gadgets",
     "description": [
       "Praktyczny zestaw 2 uchwytów na taśmę w dwóch wygodnych rozmiarach.",
@@ -202,7 +202,7 @@
   {
     "id": 16,
     "name": "Uchwyt na fizelinę z magnesem",
-    "price": 50,
+    "price": 45,
     "category": "other-gadgets",
     "description": [
       "Profesjonalny uchwyt na taśmę z magnesem.",
@@ -220,7 +220,7 @@
   {
     "id": 11,
     "name": "Profesjonalny magnetyczny uchwyt na szpachelkę",
-    "price": 40,
+    "price": 35,
     "category": "other-gadgets",
     "description": [
       "Profesjonalny magnetyczny uchwyt na szpachelkę.",
@@ -268,7 +268,7 @@
   {
     "id": 10,
     "name": "Uchwyt do lutowania przewodów",
-    "price": 40,
+    "price": 35,
     "category": "other-gadgets",
     "description": [
       "Uchwyt do lutowania przewodów (trzecia ręka do lutowania).",
@@ -428,7 +428,7 @@
   {
     "id": 18,
     "name": "Pojemnik na tarcze 75 mm",
-    "price": 35,
+    "price": 30,
     "category": "other-gadgets",
     "description": [
       "Wytrzymały i praktyczny pojemnik przeznaczony do bezpiecznego przechowywania tarcz o średnicy 75 mm.",
