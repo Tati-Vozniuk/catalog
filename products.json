@@ -464,5 +464,27 @@
       "img/product-18/75mm-disc holder-2.png",
       "img/product-18/75mm-disc holder-3.png"
     ]
+  },
+  {
+    "id": 22,
+    "name": "Zestaw kółek + uniwersalny uchwyt do żyrafy",
+    "price": 445,
+    "category": "other-gadgets",
+    "description": [
+        "Zestaw kółek + uniwersalny uchwyt do żyrafy (kompatybilny ze statywem Tripod Scangrip 3 m)",
+        "Praktyczny zestaw składający się z 3 wytrzymałych kółek jezdnych oraz uniwersalnego uchwytu do żyrafy do szlifowania, kompatybilnego ze statywem Tripod Scangrip 3 m.",
+        "Uniwersalny uchwyt pozwala zamontować każdą żyrafę do szlifowania, niezależnie od producenta.",
+        "Po zamocowaniu żyrafy na statywie nie ma potrzeby trzymania jej w rękach – statyw przejmuje ciężar urządzenia, znacząco zwiększając komfort pracy.",
+        "Idealne rozwiązanie do szlifowania sufitów i wysokich powierzchni, umożliwiające dłuższą pracę bez nadmiernego zmęczenia.",
+        "Wytrzymałe kółka ułatwiają płynne przemieszczanie statywu po budowie, również po nierównym podłożu.",
+        "Stabilny uchwyt pewnie utrzymuje żyrafę, zapewniając bezpieczeństwo oraz wygodę użytkowania podczas pracy.",
+        "Solidna konstrukcja gwarantuje trwałość, a zwiększona mobilność statywu pozwala zaoszczędzić czas i wysiłek na każdej realizacji."
+    ],
+    "images":[
+      "img/product-22/wheel-set-universal-mount-for-drywall-sander.png",
+      "img/product-22/wheel-set-universal-mount-for-drywall-sander-2.png",
+      "img/product-22/wheel-set-universal-mount-for-drywall-sander-3.png",
+      "img/product-22/wheel-set-universal-mount-for-drywall-sander-4.png"
+    ]
   }
 ]
