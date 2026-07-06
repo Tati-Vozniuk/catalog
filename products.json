@@ -466,8 +466,47 @@
     ]
   },
   {
+    "id": 23,
+    "name": "Zestaw 3 kółek do statywu Tripod",
+    "price": 300,
+    "category": "other-gadgets",
+    "description": [
+        "Zestaw  3 kółek (kompatybilny ze statywem Tripod Scangrip 3 m)",
+        "Praktyczny zestaw składający się z 3 wytrzymałych kółek jezdnych, kompatybilnych ze statywem Tripod Scangrip 3 m.",
+        "Kółka umożliwiają łatwe i płynne przemieszczanie statywu po budowie, również po nierównym podłożu.",
+        "Dzięki zwiększonej mobilności statyw można szybko ustawić w odpowiednim miejscu bez konieczności jego przenoszenia.",
+        "Idealne rozwiązanie dla ekip remontowych i wykończeniowych, które chcą pracować szybciej, wygodniej i bardziej efektywnie.",
+        "Wytrzymała konstrukcja zapewnia trwałość oraz niezawodność nawet podczas intensywnego użytkowania.",
+        "Solidne wykonanie gwarantuje stabilność statywu, a zastosowanie kółek pozwala zaoszczędzić czas i wysiłek na każdej realizacji."
+    ],
+    "images":[
+      "img/product-23/set-of-3-wheels.png",
+      "img/product-23/set-of-3-wheels-2.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Uniwersalny uchwyt do żyrafy ",
+    "price": 160,
+    "category": "other-gadgets",
+    "description": [
+        "Uniwersalny uchwyt do żyrafy do szlifowania (kompatybilny ze statywem Tripod Scangrip 3 m)",
+        "Praktyczny uniwersalny uchwyt do żyrafy do szlifowania, kompatybilny ze statywem Tripod Scangrip 3 m.",
+        "Uchwyt umożliwia zamocowanie każdej żyrafy do szlifowania, niezależnie od producenta.",
+        "Po zamocowaniu żyrafy na statywie nie ma potrzeby trzymania jej w rękach – statyw przejmuje ciężar urządzenia, znacząco zwiększając komfort pracy.",
+        "Idealne rozwiązanie do szlifowania sufitów i wysokich powierzchni, umożliwiające dłuższą pracę bez nadmiernego zmęczenia.",
+        "Stabilny uchwyt pewnie utrzymuje żyrafę, zapewniając bezpieczeństwo oraz wygodę użytkowania podczas pracy.",
+        "To idealne rozwiązanie dla ekip remontowych i wykończeniowych, które chcą pracować szybciej, wygodniej i bardziej precyzyjnie.",
+        "Solidna konstrukcja gwarantuje trwałość, a wykorzystanie statywu z uchwytem pozwala zaoszczędzić czas i wysiłek na każdej realizacji."
+    ],
+    "images":[
+      "img/product-24/universal-mount-for-drywall-sander.png",
+      "img/product-24/universal-mount-for-drywall-sander-2.png"
+    ]
+  },
+  {
     "id": 22,
-    "name": "Zestaw kółek + uniwersalny uchwyt do żyrafy",
+    "name": "Zestaw kółek + uchwyt do żyrafy",
     "price": 445,
     "category": "other-gadgets",
     "description": [
