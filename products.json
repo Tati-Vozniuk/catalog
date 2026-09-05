@@ -200,6 +200,41 @@
     ]
   },
   {
+    "id": 25,
+    "name": "Pad do szlifowania gładzi – Półksiężyc 225 mm",
+    "price": 249,
+    "category": "illuminated-sanding-pads",
+    "description": [
+        "Pad do szlifowania gładzi – Półksiężyc 225 mm",
+        "Profesjonalny pad do ręcznego szlifowania gładzi szpachlowej w kształcie półksiężyca, który ułatwia wygodne i precyzyjne szlifowanie powierzchni.",
+        "szerokość 225 mm zapewnia wygodną pracę zarówno na większych powierzchniach, jak i przy krawędziach oraz narożnikach.",
+        "Ergonomiczny uchwyt zapewnia pewny i komfortowy chwyt podczas pracy.",
+        "Wbudowane oświetlenie LED pozwala łatwiej dostrzec nierówności, rysy oraz niedoskonałości szlifowanej powierzchni.",
+        "<span style='font-weight: 500; color: var(--main-color);'>Zalety produktu:</span>",
+        "Szerokość 225 mm.",
+        "Kształt półksiężyca ułatwiający pracę przy krawędziach i narożnikach.",
+        "Wbudowane oświetlenie LED poprawiające widoczność powierzchni.",
+        "Ergonomiczny uchwyt zapewniający wygodną pracę.",
+        "Możliwość dokładnej kontroli jakości szlifowanej powierzchni.",
+        "<span style='font-weight: 500; color: var(--main-color);'>Zastosowanie:</span>",
+        "Szlifowanie gładzi szpachlowej.",
+        "Prace wykończeniowe.",
+        "Szlifowanie powierzchni przy krawędziach i narożnikach.",
+        "Przygotowanie ścian i sufitów do dalszego wykończenia.",
+        "Praktyczne narzędzie dla fachowców oraz osób wykonujących prace remontowe, które ułatwia dokładne i profesjonalne wykończenie powierzchni.",
+        "<span style='font-weight: 500; color: var(--main-color);'>Zestaw zawiera:</span>",
+        "Pad Półksiężyc 225 mm.",
+        "2 × Power Bank.",
+        "Kabel USB.",
+        "Zasilacz sieciowy."
+
+    ],
+    "images":[
+      "img/product-25/Skim-coat-sanding-pad.png",
+      "img/product-25/Skim-coat-sanding-pad-2.png"
+    ]
+  },
+  {
     "id": 4,
     "name": "Uchwyt do ukosowania płytek",
     "category": "tile-gadgets",

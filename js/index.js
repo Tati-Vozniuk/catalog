@@ -6,7 +6,7 @@ fetch("./products.json")
     allProducts = products; 
 
     renderProducts("products-container-1", [1, 2, 3]);
-    renderProducts("products-container-2", [12, 14, 13]);
+    renderProducts("products-container-2", [25, 14, 13]);
     renderProducts("products-container-3", [4, 5, 6]);
     renderProducts("products-container-4", [7, 17, 9]);
   });
