@@ -108,6 +108,18 @@
     ]
   },
   {
+    "id": 32,
+    "name": "Pad do szlifowania z regulacją uchwytu",
+    "price": 80,
+    "category": "sanding-pads",
+    "description": [
+        "Pad do szlifowania gładzi z regulowanym uchwytem"
+    ],
+    "images":[
+      "img/product-32/adjustable-handle-plaster-sanding-pad.png"
+    ]
+  },
+  {
     "id": 13,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
     "price": 220,
