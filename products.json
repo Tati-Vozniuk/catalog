@@ -78,7 +78,35 @@
       "img/product-19/smooting-sanding-pad-orange-4.png",
       "img/product-19/smooting-sanding-pad-orange-3.png"
     ]
+  },
+  {
+    "id": 29,
+    "name": "Zestaw padów do szlifowania gładzi",
+    "price": 80,
+    "category": "sanding-pads",
+    "description": [
+        "Zestaw padów do szlifowania gładzi"
+    ],
+    "images":[
+      "img/product-29/plaster-sanding-pad-set.png",
+      "img/product-29/plaster-sanding-pad-set-2.png"
+    ]
   },  
+  {
+    "id": 30,
+    "name": "Pad do szlifowania gładzi",
+    "price": 60,
+    "category": "sanding-pads",
+    "description": [
+        "Pad do szlifowania gładzi"
+    ],
+    "images":[
+      "img/product-30/plaster-sanding-pad.png",
+      "img/product-30/plaster-sanding-pad-2.png",
+      "img/product-30/plaster-sanding-pad-3.png",
+      "img/product-30/plaster-sanding-pad-4.png"
+    ]
+  },
   {
     "id": 13,
     "name": "Pad do ręcznego szlifowania z oświetleniem LED",
@@ -295,6 +323,44 @@
       "img/product-5/clamp-for-removing-tiles-2.png",
       "img/product-5/clamp-for-removing-tiles-3.png",
       "img/product-5/clamp-for-removing-tiles-4.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Osłona do ukosowania płytek Bosch GWS z adapterem",
+    "price": 220,
+    "category": "tile-gadgets",
+    "description": [
+        "Osłona do szlifierek bosch GWS 750 -GWS 9-125 do ukosowania płytek z adapterem"
+    ],
+    "images":[
+      "img/product-26/tile-beveling-guard-for-Bosch-GWS-angle-grinders.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Osłona do szlifiereki Makita M5030 do ukosowania płytek",
+    "price": 220,
+    "category": "tile-gadgets",
+    "description": [
+        "Osłona do szlifiereki Makita M5030 do ukosowania płytek"
+    ],
+    "images":[
+      "img/product-27/tile-beveling-guard-for-makita-m5030.png",
+      "img/product-27/tile-beveling-guard-for-makita-m5030-2.png"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Osłona do ukosowania płytek uniwersalna ",
+    "price": 200,
+    "category": "tile-gadgets",
+    "description": [
+        "Osłona do ukosowania płytek uniwersalna "
+    ],
+    "images":[
+      "img/product-28/universal-tile-beveling-guard.png",
+      "img/product-28/universal-tile-beveling-guard-2.png"
     ]
   },
   {
@@ -560,6 +626,21 @@
       "img/product-22/wheel-set-universal-mount-for-drywall-sander-3.png",
       "img/product-22/wheel-set-universal-mount-for-drywall-sander-4.png",
       "img/product-22/wheel-set-universal-mount-for-drywall-sander-5.png"
+    ]
+  },  
+  {
+    "id": 31,
+    "name": "Dyspenser do taśmy klejącej",
+    "price": 169,
+    "category": "other-gadgets",
+    "description": [
+        "Dyspenser do taśmy klejącej",
+        "Praktyczny i wygodny dyspenser do taśmy klejącej, wykonany w technologii druku 3D.",
+        "Solidna konstrukcja zapewnia stabilność, a wbudowane ostrze ułatwia szybkie i równe odcinanie taśmy"
+    ],
+    "images":[
+      "img/product-31/adhesive-tape-dispenser.png",
+      "img/product-31/adhesive-tape-dispenser-2.png"
     ]
   }
 ]
